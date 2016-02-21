@@ -11,4 +11,4 @@ You know what a developer does now but you'll also want to familiarize yourself 
 * **[Stack Overflow](http://stackoverflow.com/)** -- By extension, most Google queries lead to Stack Overflow, an online question-and-answer community that has high quality responses to thousands of the questions you'll search for.
 * **[Git](http://skillcrush.com/2013/02/18/git/)** -- Git is a version-control system.   You will love it, then hate it, then praise it.  But you must know it.  Git is one of those things that non-developers either haven't heard of or don't understand and it's a dividing line between hobby hacking and using industry best-practices to keep your code base safely version-controlled and stored in the cloud.  
 * **[Github](http://github.com/)** is the place where copies of your code files will be stored.  **Your github account is more important than your resume.**  It holds the record of all the code you've written, which open-source projects you've contributed to and how.  Your github account is your developer portfolio.
-
+  
